@@ -32,7 +32,7 @@ The project is working, though it still needs to be fix for:
     </ul>
     <i>Obs.: for now it's better to just use it in web projects with a large screen</i>
 </p>
-
+<br />
 <p align="center">
  <a href="#--about-the-project">About</a> •
  <a href="#--how-to-run-it">How to run it</a> •
